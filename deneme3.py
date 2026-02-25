@@ -54,7 +54,7 @@ obj=deneme3()
 obj.atm()
 
  
-
+     
    
 
 
